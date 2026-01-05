@@ -12,5 +12,7 @@ public class WordleGame {
 
         Wordle wordle = new Wordle(secret, attempts);
         wordle.play();
+
+
     }
 }
